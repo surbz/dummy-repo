@@ -1,0 +1,4 @@
+Text File
+New Branch Dev
+Test
+This should not be tracked now
